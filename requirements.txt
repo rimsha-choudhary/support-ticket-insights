@@ -1,0 +1,5 @@
+pandas>=2.2
+matplotlib
+tabulate
+pytest
+google-genai

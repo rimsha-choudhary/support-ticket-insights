@@ -1,0 +1,301 @@
+ticket_id,created_at,customer_type,subject,priority,resolution_hours
+T0001,2026-03-25T14:00,Enterprise,Backup stalled at 0%,Low,21.0
+T0002,2026-01-30T16:00,Home,Backup not running overnight,Low,55.4
+T0003,2026-06-22T11:00,Enterprise,Backup stalled at 0%,Medium,18.9
+T0004,2026-05-24T04:00,Enterprise,Restore files to new computer,Medium,7.0
+T0005,2026-02-24T11:00,SMB,Cannot log in to account,Low,65.4
+T0006,2026-04-25T21:00,SMB,Cannot log in to account,Medium,3.4
+T0007,2026-04-01T06:00,Enterprise,Backup failed after Windows update,Low,75.6
+T0008,2026-05-10T04:00,SMB,Renewal charge question,High,0.6
+T0009,2026-01-24T17:00,Home,Upload very slow,Medium,1.6
+T0010,2026-02-04T11:00,SMB,Cannot log in to account,Low,35.7
+T0011,2026-03-13T12:00,Enterprise,Cannot log in to account,Medium,21.0
+T0012,2026-03-25T13:00,SMB,Backup not running overnight,Medium,5.3
+T0013,2026-03-16T23:00,Home,Two-factor code not received,Medium,21.4
+T0014,2026-05-17T22:00,Home,Need to restore deleted folder,Low,25.2
+T0015,2026-06-20T09:00,Enterprise,Firewall blocking backup,Medium,12.5
+T0016,2026-03-26T04:00,Enterprise,License expired warning,Medium,23.3
+T0017,2026-05-17T07:00,Home,Two-factor code not received,Medium,11.4
+T0018,2026-01-17T01:00,Home,Upload very slow,High,4.5
+T0019,2026-01-22T16:00,Enterprise,Restore files to new computer,Medium,12.1
+T0020,2026-01-04T22:00,Home,Renewal charge question,Medium,21.3
+T0021,2026-04-27T02:00,SMB,Upload very slow,Low,10.6
+T0022,2026-03-31T21:00,Home,Full system restore after laptop crash,High,5.1
+T0023,2026-04-12T20:00,Enterprise,Backup stuck - no internet connection,Low,78.8
+T0024,2026-02-25T03:00,Enterprise,Backup stuck - no internet connection,High,2.9
+T0025,2026-01-07T15:00,SMB,Backup not running overnight,Medium,3.7
+T0026,2026-01-27T21:00,SMB,Cannot log in to account,High,0.6
+T0027,2026-02-13T19:00,Enterprise,Backup not running overnight,Low,61.8
+T0028,2026-05-25T10:00,Enterprise,Full system restore after laptop crash,Medium,30.1
+T0029,2026-05-08T11:00,Enterprise,Restore files to new computer,Medium,13.8
+T0030,2026-01-22T20:00,Enterprise,License expired warning,Medium,10.7
+T0031,2026-01-03T10:00,Enterprise,Backup stuck - no internet connection,Medium,2.4
+T0032,2026-01-11T17:00,Home,Backup stalled at 0%,High,4.5
+T0033,2026-06-15T16:00,Home,Backup stuck - no internet connection,Medium,6.8
+T0034,2026-06-11T10:00,Home,Firewall blocking backup,Medium,25.2
+T0035,2026-05-01T22:00,SMB,Backup stalled at 0%,Medium,13.3
+T0036,2026-02-03T14:00,Enterprise,Backup not running overnight,Medium,2.1
+T0037,2026-03-06T22:00,Home,Cannot log in to account,Medium,16.8
+T0038,2026-03-27T06:00,Home,License expired warning,Medium,27.3
+T0039,2026-01-06T00:00,Home,Renewal charge question,High,5.0
+T0040,2026-03-14T23:00,Home,Full system restore after laptop crash,Medium,27.0
+T0041,2026-05-14T06:00,SMB,Full system restore after laptop crash,High,1.5
+T0042,2026-06-16T02:00,SMB,Password reset not working,Medium,5.0
+T0043,2026-01-21T19:00,Home,Need to restore deleted folder,Medium,23.4
+T0044,2026-02-23T17:00,Enterprise,Backup not running overnight,Medium,2.0
+T0045,2026-01-24T04:00,Home,Backup stalled at 0%,High,3.6
+T0046,2026-03-26T00:00,Home,License expired warning,Low,54.3
+T0047,2026-06-28T10:00,SMB,Backup stuck - no internet connection,Medium,10.0
+T0048,2026-03-23T11:00,Home,Restore files to new computer,Low,25.0
+T0049,2026-01-25T18:00,Enterprise,Password reset not working,Medium,0.5
+T0050,2026-03-14T18:00,Home,Backup stuck - no internet connection,High,2.7
+T0051,2026-05-07T03:00,SMB,Cannot log in to account,Low,26.8
+T0052,2026-01-03T16:00,Enterprise,Firewall blocking backup,Medium,20.9
+T0053,2026-02-15T20:00,Home,Two-factor code not received,High,1.5
+T0054,2026-03-13T21:00,Home,Backup stuck - no internet connection,Medium,22.4
+T0055,2026-01-18T08:00,SMB,Two-factor code not received,Medium,3.1
+T0056,2026-02-14T15:00,SMB,Cannot log in to account,High,3.4
+T0057,2026-05-26T23:00,Home,Restore files to new computer,Medium,17.6
+T0058,2026-01-13T07:00,Enterprise,Backup not running overnight,Low,78.2
+T0059,2026-01-15T06:00,Home,Backup stuck - no internet connection,Medium,9.8
+T0060,2026-02-05T02:00,Enterprise,Cannot log in to account,Medium,11.2
+T0061,2026-03-22T19:00,Home,Renewal charge question,Low,81.0
+T0062,2026-04-24T09:00,SMB,License expired warning,High,4.1
+T0063,2026-02-06T21:00,Home,Full system restore after laptop crash,High,2.1
+T0064,2026-06-07T02:00,Home,License expired warning,High,1.9
+T0065,2026-05-17T00:00,Home,Need to restore deleted folder,Medium,10.4
+T0066,2026-05-17T10:00,Enterprise,Password reset not working,Medium,21.3
+T0067,2026-03-31T03:00,SMB,Cannot log in to account,High,1.1
+T0068,2026-04-28T23:00,SMB,Backup stalled at 0%,Medium,22.8
+T0069,2026-02-09T11:00,Enterprise,Renewal charge question,Low,36.2
+T0070,2026-05-29T20:00,Enterprise,Full system restore after laptop crash,High,0.2
+T0071,2026-04-23T16:00,Enterprise,Full system restore after laptop crash,Medium,19.5
+T0072,2026-06-23T02:00,SMB,Backup not running overnight,Low,29.1
+T0073,2026-02-13T10:00,Enterprise,Password reset not working,Medium,6.1
+T0074,2026-03-01T09:00,SMB,Renewal charge question,Low,57.7
+T0075,2026-04-14T17:00,SMB,Renewal charge question,Low,27.0
+T0076,2026-06-08T17:00,Enterprise,Firewall blocking backup,Medium,13.9
+T0077,2026-02-27T22:00,SMB,Restore files to new computer,Medium,20.6
+T0078,2026-04-25T09:00,Home,Firewall blocking backup,Medium,3.1
+T0079,2026-02-20T07:00,Home,Cannot log in to account,Low,2.5
+T0080,2026-01-25T20:00,Enterprise,Renewal charge question,Low,42.7
+T0081,2026-05-12T01:00,Home,Backup stuck - no internet connection,Low,46.4
+T0082,2026-02-06T09:00,Home,Restore files to new computer,Medium,24.3
+T0083,2026-01-18T03:00,Home,Restore files to new computer,Medium,17.5
+T0084,2026-04-19T07:00,SMB,License expired warning,Low,88.9
+T0085,2026-05-26T15:00,Enterprise,Firewall blocking backup,Low,77.8
+T0086,2026-06-12T00:00,Home,License expired warning,Low,42.2
+T0087,2026-03-23T15:00,Home,Two-factor code not received,Medium,8.7
+T0088,2026-04-20T03:00,Home,Cannot log in to account,Medium,27.9
+T0089,2026-02-22T03:00,Home,Need to restore deleted folder,Medium,22.1
+T0090,2026-06-09T00:00,Home,Need to add another computer to plan,Medium,13.1
+T0091,2026-01-07T16:00,Enterprise,Need to add another computer to plan,Low,80.2
+T0092,2026-05-01T01:00,SMB,Need to add another computer to plan,High,1.7
+T0093,2026-03-17T06:00,SMB,Renewal charge question,Low,45.8
+T0094,2026-04-25T17:00,SMB,Need to add another computer to plan,High,3.5
+T0095,2026-01-10T04:00,Enterprise,Full system restore after laptop crash,Low,84.9
+T0096,2026-05-27T07:00,SMB,Firewall blocking backup,High,0.9
+T0097,2026-04-22T17:00,SMB,Need to restore deleted folder,Medium,6.8
+T0098,2026-05-24T21:00,Home,Password reset not working,Medium,8.0
+T0099,2026-01-18T18:00,SMB,License expired warning,Low,93.6
+T0100,2026-01-14T17:00,Home,Restore files to new computer,High,4.0
+T0101,2026-03-23T10:00,Enterprise,Need to restore deleted folder,Medium,4.1
+T0102,2026-06-08T17:00,SMB,Backup not running overnight,Low,65.5
+T0103,2026-02-09T02:00,Home,Restore files to new computer,Medium,24.3
+T0104,2026-04-17T11:00,SMB,Cannot log in to account,Medium,18.0
+T0105,2026-03-24T21:00,SMB,Renewal charge question,High,0.7
+T0106,2026-01-15T00:00,SMB,Backup stuck - no internet connection,Low,32.6
+T0107,2026-04-27T11:00,SMB,Cannot log in to account,Medium,0.6
+T0108,2026-05-04T15:00,SMB,License expired warning,Medium,19.9
+T0109,2026-06-28T02:00,SMB,Full system restore after laptop crash,High,5.0
+T0110,2026-06-08T16:00,Enterprise,Firewall blocking backup,Low,40.9
+T0111,2026-03-25T19:00,Home,Upload very slow,Medium,26.0
+T0112,2026-06-08T14:00,Enterprise,Password reset not working,Medium,17.9
+T0113,2026-04-21T22:00,Home,Need to add another computer to plan,High,1.1
+T0114,2026-04-05T07:00,Enterprise,Password reset not working,Medium,17.4
+T0115,2026-05-19T17:00,Home,Need to restore deleted folder,Medium,15.3
+T0116,2026-06-02T23:00,Home,Renewal charge question,Low,74.3
+T0117,2026-03-25T01:00,Enterprise,Cannot log in to account,Medium,9.7
+T0118,2026-04-28T08:00,Enterprise,Password reset not working,Medium,13.4
+T0119,2026-06-04T21:00,SMB,Upload very slow,Medium,8.6
+T0120,2026-04-18T16:00,Enterprise,Need to restore deleted folder,Low,11.4
+T0121,2026-06-15T06:00,Enterprise,Need to restore deleted folder,Medium,8.8
+T0122,2026-02-04T07:00,SMB,Firewall blocking backup,Medium,26.0
+T0123,2026-01-05T19:00,Home,Full system restore after laptop crash,High,3.7
+T0124,2026-04-10T17:00,Home,Cannot log in to account,Low,65.3
+T0125,2026-04-08T01:00,SMB,License expired warning,Low,44.0
+T0126,2026-03-28T04:00,SMB,Cannot log in to account,Low,88.1
+T0127,2026-01-26T06:00,Enterprise,Backup stalled at 0%,Medium,18.1
+T0128,2026-04-14T17:00,Home,Backup stalled at 0%,High,0.6
+T0129,2026-03-19T00:00,SMB,Backup not running overnight,Low,72.6
+T0130,2026-05-27T08:00,Enterprise,Need to add another computer to plan,Medium,9.7
+T0131,2026-02-03T20:00,Home,Backup not running overnight,Low,88.7
+T0132,2026-02-23T14:00,Enterprise,Full system restore after laptop crash,Medium,7.6
+T0133,2026-06-03T18:00,SMB,Backup stalled at 0%,High,3.6
+T0134,2026-04-07T12:00,SMB,Cannot log in to account,Medium,22.0
+T0135,2026-04-01T07:00,Enterprise,Backup not running overnight,Medium,24.6
+T0136,2026-03-09T12:00,Enterprise,Firewall blocking backup,Low,39.9
+T0137,2026-04-01T16:00,Home,Restore files to new computer,High,4.3
+T0138,2026-04-09T12:00,SMB,Backup stalled at 0%,Low,41.2
+T0139,2026-04-03T22:00,SMB,Two-factor code not received,Medium,15.7
+T0140,2026-05-28T11:00,Enterprise,License expired warning,Medium,23.0
+T0141,2026-01-08T01:00,Enterprise,Cannot log in to account,High,5.2
+T0142,2026-03-01T19:00,Enterprise,Two-factor code not received,High,2.6
+T0143,2026-05-29T18:00,SMB,Need to add another computer to plan,High,3.4
+T0144,2026-04-24T18:00,Home,Backup failed after Windows update,Medium,10.2
+T0145,2026-06-19T02:00,SMB,Full system restore after laptop crash,Medium,9.1
+T0146,2026-04-18T08:00,Home,Backup stuck - no internet connection,Medium,8.0
+T0147,2026-01-01T09:00,Enterprise,Renewal charge question,Low,61.6
+T0148,2026-06-26T23:00,SMB,Need to add another computer to plan,High,2.0
+T0149,2026-02-14T17:00,SMB,License expired warning,Medium,29.0
+T0150,2026-03-23T16:00,SMB,License expired warning,High,3.7
+T0151,2026-02-01T19:00,Home,Backup stuck - no internet connection,Medium,7.2
+T0152,2026-02-22T13:00,Enterprise,License expired warning,Medium,15.6
+T0153,2026-05-22T19:00,SMB,Two-factor code not received,Low,78.2
+T0154,2026-05-11T22:00,Enterprise,Full system restore after laptop crash,Medium,6.1
+T0155,2026-01-24T19:00,SMB,Firewall blocking backup,Low,26.0
+T0156,2026-01-01T21:00,SMB,Two-factor code not received,Medium,9.0
+T0157,2026-06-17T03:00,SMB,Firewall blocking backup,Low,81.0
+T0158,2026-05-09T18:00,SMB,Upload very slow,Medium,14.3
+T0159,2026-05-11T17:00,SMB,Restore files to new computer,Medium,7.4
+T0160,2026-05-11T03:00,Enterprise,Backup failed after Windows update,Low,36.3
+T0161,2026-02-13T02:00,Enterprise,Full system restore after laptop crash,Low,47.1
+T0162,2026-05-31T06:00,SMB,Cannot log in to account,Low,9.5
+T0163,2026-02-22T16:00,SMB,Backup not running overnight,High,0.6
+T0164,2026-01-28T09:00,Enterprise,Two-factor code not received,Medium,26.6
+T0165,2026-06-16T13:00,Home,Upload very slow,Low,81.7
+T0166,2026-04-09T02:00,Enterprise,Backup stuck - no internet connection,Medium,31.1
+T0167,2026-02-04T07:00,Enterprise,Backup failed after Windows update,Low,41.6
+T0168,2026-01-20T03:00,SMB,Cannot log in to account,High,1.7
+T0169,2026-05-21T15:00,Home,License expired warning,Medium,17.7
+T0170,2026-05-11T13:00,Home,Need to restore deleted folder,High,3.3
+T0171,2026-06-07T09:00,SMB,Renewal charge question,High,3.4
+T0172,2026-06-08T19:00,Enterprise,Two-factor code not received,High,4.7
+T0173,2026-04-28T22:00,SMB,Backup stuck - no internet connection,High,5.1
+T0174,2026-04-14T02:00,SMB,Renewal charge question,Medium,6.4
+T0175,2026-05-03T12:00,Enterprise,License expired warning,Medium,18.0
+T0176,2026-05-16T02:00,Enterprise,Cannot log in to account,Low,25.8
+T0177,2026-04-08T16:00,Home,Backup not running overnight,Low,72.7
+T0178,2026-03-06T21:00,Enterprise,Upload very slow,Medium,19.4
+T0179,2026-01-14T10:00,SMB,Restore files to new computer,High,1.7
+T0180,2026-02-14T20:00,SMB,Backup not running overnight,Medium,3.0
+T0181,2026-03-10T12:00,Enterprise,Two-factor code not received,Medium,4.3
+T0182,2026-04-04T00:00,SMB,Two-factor code not received,Medium,25.9
+T0183,2026-04-26T14:00,SMB,Need to add another computer to plan,Low,75.3
+T0184,2026-03-19T00:00,Enterprise,Backup stalled at 0%,Low,80.5
+T0185,2026-05-15T16:00,Enterprise,Renewal charge question,Medium,0.6
+T0186,2026-03-31T11:00,Enterprise,Backup failed after Windows update,Medium,18.3
+T0187,2026-06-10T22:00,Enterprise,Cannot log in to account,Medium,1.0
+T0188,2026-01-22T13:00,SMB,Two-factor code not received,Medium,19.9
+T0189,2026-02-17T17:00,Home,Two-factor code not received,Medium,1.6
+T0190,2026-03-22T03:00,Home,Password reset not working,High,4.6
+T0191,2026-05-24T01:00,Enterprise,Need to add another computer to plan,Medium,18.4
+T0192,2026-06-17T00:00,SMB,Full system restore after laptop crash,Medium,19.3
+T0193,2026-06-01T08:00,Home,Backup not running overnight,Medium,14.0
+T0194,2026-05-06T09:00,Enterprise,Cannot log in to account,Low,51.1
+T0195,2026-03-06T18:00,SMB,Cannot log in to account,Medium,30.2
+T0196,2026-01-08T06:00,SMB,Backup not running overnight,Medium,1.8
+T0197,2026-03-12T01:00,Enterprise,Need to restore deleted folder,Low,6.6
+T0198,2026-03-21T12:00,Home,Restore files to new computer,Medium,10.4
+T0199,2026-02-19T09:00,Enterprise,Backup stuck - no internet connection,Medium,30.8
+T0200,2026-01-09T19:00,SMB,Cannot log in to account,High,0.9
+T0201,2026-03-01T11:00,Home,Restore files to new computer,Medium,8.4
+T0202,2026-01-22T16:00,SMB,Renewal charge question,High,2.6
+T0203,2026-06-21T23:00,Enterprise,Firewall blocking backup,High,1.3
+T0204,2026-06-27T23:00,Enterprise,Backup not running overnight,Low,28.4
+T0205,2026-05-18T02:00,Home,Backup stalled at 0%,Low,40.0
+T0206,2026-01-26T02:00,SMB,Renewal charge question,Low,84.2
+T0207,2026-04-04T20:00,Enterprise,Backup stuck - no internet connection,High,3.3
+T0208,2026-04-11T15:00,Enterprise,Firewall blocking backup,Medium,14.3
+T0209,2026-02-09T01:00,Enterprise,License expired warning,Low,79.9
+T0210,2026-05-27T19:00,Home,Firewall blocking backup,Low,42.4
+T0211,2026-05-17T02:00,Home,Need to add another computer to plan,Low,39.1
+T0212,2026-03-29T00:00,Home,Password reset not working,Medium,11.8
+T0213,2026-01-30T03:00,Home,License expired warning,High,0.7
+T0214,2026-04-23T12:00,SMB,Cannot log in to account,Medium,21.0
+T0215,2026-05-25T08:00,Enterprise,Two-factor code not received,Low,81.3
+T0216,2026-05-01T00:00,Enterprise,Backup failed after Windows update,Medium,3.4
+T0217,2026-03-18T13:00,SMB,Need to restore deleted folder,Medium,26.5
+T0218,2026-04-06T02:00,SMB,Upload very slow,High,3.1
+T0219,2026-01-09T23:00,Enterprise,Firewall blocking backup,Medium,19.1
+T0220,2026-04-16T11:00,SMB,Cannot log in to account,High,4.8
+T0221,2026-05-17T19:00,Enterprise,Backup stalled at 0%,Low,6.7
+T0222,2026-03-15T10:00,SMB,Backup stalled at 0%,Low,35.3
+T0223,2026-04-21T17:00,Enterprise,Cannot log in to account,Medium,24.3
+T0224,2026-02-23T02:00,Enterprise,Backup stuck - no internet connection,Low,14.9
+T0225,2026-06-01T05:00,SMB,Backup not running overnight,High,3.5
+T0226,2026-03-15T13:00,Home,Upload very slow,Medium,23.6
+T0227,2026-06-16T02:00,SMB,Password reset not working,High,2.8
+T0228,2026-01-19T16:00,SMB,Backup stalled at 0%,Medium,0.4
+T0229,2026-04-09T19:00,Home,Need to restore deleted folder,Low,30.8
+T0230,2026-02-14T02:00,Enterprise,Renewal charge question,Medium,12.0
+T0231,2026-05-01T21:00,Enterprise,Restore files to new computer,Medium,2.4
+T0232,2026-01-27T13:00,Enterprise,Backup failed after Windows update,High,4.5
+T0233,2026-05-23T13:00,SMB,Renewal charge question,Medium,9.2
+T0234,2026-06-07T01:00,SMB,Backup failed after Windows update,High,4.4
+T0235,2026-03-25T01:00,SMB,Backup failed after Windows update,Low,40.9
+T0236,2026-04-16T21:00,Home,Backup stuck - no internet connection,Medium,23.3
+T0237,2026-02-08T22:00,Home,Cannot log in to account,High,2.9
+T0238,2026-02-20T09:00,Home,Password reset not working,Low,22.3
+T0239,2026-02-22T04:00,Enterprise,Cannot log in to account,High,4.0
+T0240,2026-06-18T15:00,Enterprise,Backup stalled at 0%,Low,43.5
+T0241,2026-04-21T07:00,Enterprise,Upload very slow,Medium,27.0
+T0242,2026-06-10T01:00,SMB,Cannot log in to account,Medium,13.9
+T0243,2026-06-23T04:00,SMB,Two-factor code not received,High,0.6
+T0244,2026-04-08T23:00,Home,License expired warning,High,0.6
+T0245,2026-06-07T22:00,Enterprise,Firewall blocking backup,Medium,18.2
+T0246,2026-03-06T06:00,SMB,Backup failed after Windows update,Low,30.2
+T0247,2026-06-03T18:00,SMB,Backup stuck - no internet connection,Low,9.9
+T0248,2026-01-14T08:00,SMB,Backup not running overnight,Medium,7.9
+T0249,2026-02-24T04:00,SMB,Renewal charge question,Medium,11.5
+T0250,2026-01-18T20:00,Enterprise,Need to add another computer to plan,Low,73.9
+T0251,2026-05-12T22:00,Enterprise,Cannot log in to account,Medium,9.0
+T0252,2026-02-18T06:00,SMB,Backup stuck - no internet connection,Medium,28.6
+T0253,2026-01-29T22:00,SMB,License expired warning,Medium,9.8
+T0254,2026-06-29T16:00,Enterprise,Cannot log in to account,Medium,3.1
+T0255,2026-05-04T18:00,Home,Renewal charge question,Medium,9.8
+T0256,2026-02-16T22:00,SMB,Password reset not working,High,1.0
+T0257,2026-06-29T17:00,SMB,Backup not running overnight,Low,3.7
+T0258,2026-02-22T15:00,Enterprise,Backup stuck - no internet connection,Medium,5.2
+T0259,2026-01-15T21:00,Enterprise,Backup stuck - no internet connection,Low,38.6
+T0260,2026-06-03T05:00,Home,Full system restore after laptop crash,Medium,7.5
+T0261,2026-03-08T05:00,Enterprise,Password reset not working,Low,34.6
+T0262,2026-05-11T08:00,SMB,Need to add another computer to plan,Low,47.2
+T0263,2026-02-17T05:00,Home,Need to restore deleted folder,Low,81.7
+T0264,2026-02-05T00:00,Enterprise,Need to add another computer to plan,Medium,22.3
+T0265,2026-02-24T17:00,Enterprise,Backup failed after Windows update,High,1.6
+T0266,2026-03-17T18:00,SMB,Full system restore after laptop crash,High,4.3
+T0267,2026-06-21T08:00,SMB,Backup failed after Windows update,High,2.1
+T0268,2026-04-19T18:00,Enterprise,Backup failed after Windows update,Medium,29.1
+T0269,2026-04-08T22:00,SMB,Cannot log in to account,High,4.8
+T0270,2026-01-02T19:00,Home,Restore files to new computer,Medium,28.3
+T0271,2026-05-25T11:00,SMB,Cannot log in to account,Low,10.6
+T0272,2026-03-23T09:00,Enterprise,Full system restore after laptop crash,High,2.3
+T0273,2026-06-20T14:00,Home,License expired warning,High,3.2
+T0274,2026-02-19T00:00,Home,Firewall blocking backup,Medium,9.2
+T0275,2026-05-23T04:00,Enterprise,Upload very slow,Medium,6.0
+T0276,2026-01-24T02:00,Enterprise,Backup not running overnight,Low,89.2
+T0277,2026-05-14T06:00,Home,Firewall blocking backup,Medium,27.3
+T0278,2026-01-06T13:00,Home,Need to add another computer to plan,Medium,11.3
+T0279,2026-02-05T09:00,Enterprise,Cannot log in to account,Low,72.3
+T0280,2026-04-26T13:00,Home,Cannot log in to account,High,4.3
+T0281,2026-03-04T05:00,Home,Renewal charge question,Medium,25.4
+T0282,2026-01-15T22:00,Home,License expired warning,Medium,24.7
+T0283,2026-06-11T14:00,Enterprise,Password reset not working,Medium,8.1
+T0284,2026-01-17T07:00,SMB,Full system restore after laptop crash,Medium,27.0
+T0285,2026-05-30T03:00,Enterprise,Cannot log in to account,Low,83.3
+T0286,2026-03-05T18:00,SMB,Need to add another computer to plan,Medium,15.6
+T0287,2026-01-29T04:00,Home,Two-factor code not received,Medium,22.7
+T0288,2026-03-03T14:00,SMB,Renewal charge question,Low,51.1
+T0289,2026-04-11T21:00,Enterprise,Backup stalled at 0%,Medium,9.7
+T0290,2026-04-30T23:00,Enterprise,License expired warning,Medium,14.1
+T0291,2026-04-04T17:00,Home,Two-factor code not received,Low,59.9
+T0292,2026-05-05T00:00,Enterprise,Backup not running overnight,Medium,16.1
+T0293,2026-05-30T13:00,Home,Need to restore deleted folder,High,0.4
+T0294,2026-05-11T16:00,Home,Restore files to new computer,Medium,29.6
+T0295,2026-05-07T14:00,Home,Backup stuck - no internet connection,Medium,11.7
+T0296,2026-05-16T20:00,SMB,Backup stuck - no internet connection,Medium,9.9
+T0297,2026-03-05T12:00,SMB,Need to restore deleted folder,High,2.7
+T0298,2026-03-30T20:00,Home,Backup stuck - no internet connection,Medium,22.0
+T0299,2026-06-17T15:00,Home,Upload very slow,Medium,6.4
+T0300,2026-06-01T22:00,Enterprise,Backup failed after Windows update,High,5.2
